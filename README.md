@@ -7,6 +7,7 @@
       <td align="center"><a href="https://github.com/dg1418"><img src="https://github.com/dg1418.png" width="100px;" height="100px"; alt=""/><br /><sub><b>홍대경</b></sub></a><br />
       <td align="center"><a href="https://github.com/zzzRYT"><img src="https://github.com/zzzRYT.png" width="100px;" height="100px;" alt=""/><br /><sub><b>이재진</b></sub></a>
       <td align="center"><a href="https://github.com/cyoure"><img src="https://github.com/cyoure.png" width="100px;" height="100px;" alt=""/><br /><sub><b>김준우</b></sub></a>
+      <td align="center"><a href="https://github.com/bluetree7878"><img src="https://github.com/bluetree7878.png" width="100px;" height="100px;" alt=""/><br /><sub><b>신현성</b></sub></a>
     </tr>
   </table>
 
