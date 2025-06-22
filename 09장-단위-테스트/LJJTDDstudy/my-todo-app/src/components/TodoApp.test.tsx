@@ -1,10 +1,10 @@
 import { render, screen } from "@testing-library/react";
 import userEvent from "@testing-library/user-event";
 import TodoApp from "./TodoApp";
-import { describe, expect, test } from "vitest";
+import { describe, expect, it } from "vitest";
 
 describe("TodoApp", () => {
-  test("should allow user to add a todo item", async () => {
+  it("should allow user to add a todo item", async () => {
     render(<TodoApp />);
 
     const input = screen.getByPlaceholderText(/할 일을 입력하세요/i);
@@ -16,7 +16,7 @@ describe("TodoApp", () => {
     expect(screen.getByText("리액트 공부")).toBeInTheDocument();
   });
 
-  test("should toggle todo completion on click", async () => {
+  it("should toggle todo completion on click", async () => {
     render(<TodoApp />);
 
     const input = screen.getByPlaceholderText(/할 일을 입력하세요/i);
